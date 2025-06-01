@@ -1,6 +1,6 @@
 # ai-skin-companion
 AI-powered web and mobile app for early skin condition detection and skincare recommendations.
-git clone https://github.com/YOUR_USERNAME/ai-skin-companion.git
+git clone https://github.com/setukumar/ai-skin-companion.git
 # Add your files
 git add .
 git commit -m "Initial commit"
